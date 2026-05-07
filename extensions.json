@@ -1,0 +1,17 @@
+{
+  "featured": [],
+  "extensions": [
+    {
+      "id": "lnurlp",
+      "repo": "https://github.com/BenGWeeks/lnurlp",
+      "name": "Pay Links",
+      "version": "1.2.0+wf1",
+      "min_lnbits_version": "1.4.0",
+      "short_description": "Weeks-family patched build of Pay Links - awaits NIP-20 OK from relays before treating zap-receipt publish as successful (cherry-picked from upstream PR #133).",
+      "icon": "https://raw.githubusercontent.com/BenGWeeks/lnurlp/weeks-family/static/image/lnurl-pay.png",
+      "details_link": "https://raw.githubusercontent.com/BenGWeeks/lnurlp/weeks-family/config.json",
+      "archive": "https://github.com/BenGWeeks/lnurlp/archive/refs/tags/v1.2.0-wf1.zip",
+      "hash": "fa97d9002989efcd8277fef419f582b5331115a5a3e4036a1df48d0e019230f3"
+    }
+  ]
+}
